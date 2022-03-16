@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hubco</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_username">naimish</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="text_password">*******</string>
+    <string name="empty_username">Please enter your UserName.</string>
+    <string name="empty_password">Please enter your Password.</string>
+    <string name="enter_below_details_for_password_reset">Enter Below Details for Password Reset</string>
+    <string name="dob">DOB</string>
+    <string name="mobilenumber">mobilenumber</string>
+</resources>
